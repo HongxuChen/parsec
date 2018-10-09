@@ -1,0 +1,46 @@
+parsec.blackscholes [1]:
+parsec.bodytrack [1]:
+parsec.canneal [1]:
+parsec.fluidanimate [1]:
+parsec.freqmine [1]:
+parsec.streamcluster [1]:
+parsec.swaptions [1]:
+parsec.vips [1]:
+
+parsec.dedup [1]:                <---- CC/CLANG, pod2man
+parsec.facesim [1]:              <---- COMPILE
+parsec.ferret [1]:               <---- SANITIZER
+parsec.netdedup [1]:             <---- COMPILE
+parsec.netferret [1]:            <---- SANITIZER
+parsec.netstreamcluster [1]:     <---- COMPILE
+parsec.raytrace [1]:             <---- CMAKE
+parsec.x264 [1]:
+
+splash2.barnes [2]:
+splash2.cholesky [2]:
+splash2.fft [2]:
+splash2.fmm [2]:
+splash2.lu_cb [2]:
+splash2.lu_ncb [2]:
+splash2.ocean_cp [2]:
+splash2.ocean_ncp [2]:
+splash2.radix [2]:
+splash2.raytrace [2]:
+splash2.radiosity [2]:           <---- fPIC
+splash2.volrend [2]:             <---- COMPILE
+splash2.water_nsquared [2]:
+splash2.water_spatial [2]:
+splash2x.barnes [2]:
+splash2x.cholesky [2]:
+splash2x.fft [2]:
+splash2x.fmm [2]:
+splash2x.lu_cb [2]:
+splash2x.lu_ncb [2]:
+splash2x.ocean_cp [2]:
+splash2x.ocean_ncp [2]:
+splash2x.radiosity [2]:
+splash2x.radix [2]:
+splash2x.raytrace [2]:
+splash2x.volrend [2]:           <---- COMPILE
+splash2x.water_nsquared [2]:
+splash2x.water_spatial [2]:
